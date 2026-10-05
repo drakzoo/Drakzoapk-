@@ -1,0 +1,6 @@
+{
+  "name": "Drakzo Chat",
+  "description": "Fast, secure messaging with private & group chats, multimedia messaging, friends management, and session control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
